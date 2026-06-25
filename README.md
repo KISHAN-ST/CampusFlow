@@ -1,0 +1,3 @@
+# CampusFlow
+
+Initial project structure.
