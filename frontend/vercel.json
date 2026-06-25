@@ -3,6 +3,10 @@
     {
       "source": "/api/:path*",
       "destination": "https://REPLACE_WITH_YOUR_RENDER_URL/api/:path*"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
